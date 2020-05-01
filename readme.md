@@ -21,4 +21,4 @@ This work is free. You can redistribute it and/or modify it under the terms of t
 
 ##### Suggested citation:
 
-` Block, P., Hoffman, M., Raabe, I. J., Dowd, J. B., Rahal, C., Kashyap, R., & Mills, M. C. (2020). Social network-based distancing strategies to flatten the COVID 19 curve in a post-lockdown world. arXiv preprint arXiv:2004.07052.`.
+` Block, P., Hoffman, M., Raabe, I. J., Dowd, J. B., Rahal, C., Kashyap, R., & Mills, M. C. (2020). Social network-based distancing strategies to flatten the COVID 19 curve in a post-lockdown world. arXiv preprint arXiv:2004.07052.`
