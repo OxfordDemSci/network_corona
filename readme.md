@@ -3,6 +3,7 @@
 ##### Last updated: 1st May, 2020
 --- 
 [![Generic badge](https://img.shields.io/badge/Language-R-purple.svg)](https://shields.io/) ![Generic badge](https://img.shields.io/badge/Maintained-Yes-green.svg) ![Generic badge](https://img.shields.io/badge/License-MIT-red.svg) ![Generic badge](https://img.shields.io/badge/Maintained-Yes-green.svg) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3782465.svg)](https://doi.org/10.5281/zenodo.3782465)
+
 This is a repository to house the code for the paper `Social network-based distancing strategies to flatten the COVID-19 curve in a post-lockdown world'. The full version of the working paper is available on [arXiv](https://arxiv.org/abs/2004.07052). 
 
 **Code by [Marion Hoffman](https://twitter.com/marion_hof) and [Per Block](https://twitter.com/block_per?lang=en-gb).**
